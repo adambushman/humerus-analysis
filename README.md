@@ -12,6 +12,7 @@ I'll analyze the dataset graphically, make stastically hypotheses/conclusions, e
 
 ## Dataset Source
 Ramsey, F.L. and Schafer, D.W. (2013). The Statistical Sleuth: A Course in Methods of Data Analysis (3rd ed), Cengage Learning.
+
 Accessed 1/25/2022 via library('Sleuth3')
 
 ## Current Site
