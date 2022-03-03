@@ -10,5 +10,9 @@ Our goal is to analyze the sampled data and evaluate the evidence supporting Bum
 
 We'll analyze the dataset graphically, make stastically hypotheses/conclusions, evaluate assumptions, and address the scope of inference. You'll find the analysis file (.R) within the repository and a full written report of the findings at the below blog post.
 
+## Dataset Source
+Ramsey, F.L. and Schafer, D.W. (2013). The Statistical Sleuth: A Course in Methods of Data Analysis (3rd ed), Cengage Learning.
+Accessed 1/25/2022 via library('Sleuth3')
+
 ## Current Site
 [Humerus Analysis Blog Post](https://www.adam-bushman.com/blog_posts/blog_humerus-analysis_003.html)
